@@ -1,0 +1,122 @@
+RB Privacy Commercial License v1.0
+SPDX-License-Identifier: LicenseRef-RB-Privacy-Commercial-1.0
+
+Copyright (c) 2026 RB
+
+1. Grant
+
+Subject to the terms of this License, every recipient is granted a
+worldwide, royalty-free, non-exclusive, perpetual, irrevocable license
+to use, run, study, copy, modify, merge, publish, distribute, sublicense,
+and sell the Software and its Source Code.
+
+This permission includes:
+(a) personal and commercial use;
+(b) use in commercial products and services;
+(c) redistribution of source code;
+(d) redistribution of compiled binaries and installable packages;
+(e) creation and distribution of modified versions;
+(f) use on Android devices, servers, desktop systems, and embedded systems.
+
+2. Source Code and Build Information
+
+When distributing a modified version of the Software, the distributor must:
+
+(a) retain this License and all copyright notices;
+(b) clearly identify the modified version;
+(c) provide the corresponding source code for the distributed version
+    when the distributor claims that the source is available;
+(d) preserve build instructions and dependency notices where reasonably
+    available.
+
+3. Privacy Requirements
+
+The Software must not intentionally include:
+
+(a) hidden telemetry;
+(b) undisclosed advertising SDKs;
+(c) cross-application tracking;
+(d) device fingerprinting;
+(e) collection of contacts, messages, microphone, camera, location,
+    identifiers, credentials, or files without a clear user-facing
+    purpose and the user's informed consent;
+(f) transmission of personal data without a documented legal and technical
+    basis.
+
+Optional network communication must be clearly documented and must be
+disabled when the user disables the relevant feature.
+
+4. Installable Packages
+
+A distributor may build and distribute APKs, packages, bundles, containers,
+and other installable artifacts.
+
+A distributor must not claim that a modified package is an official RB
+release. Modified packages must use a distinct signing key and must clearly
+state that they are modified or independently built.
+
+The original package identifier and signing identity must not be reused
+for a modified package unless the original maintainer has explicitly
+authorized that reuse in writing.
+
+5. Security and Integrity
+
+Distributors must not remove or weaken security warnings, signature checks,
+repository verification, update verification, or privacy controls in a way
+that falsely represents the modified package as an official release.
+
+Private signing keys, wallet keys, seed phrases, API keys, and credentials
+must not be included in the source code or installable packages.
+
+6. Dependencies and Third-Party Components
+
+This License applies only to material owned by RB.
+
+Third-party components remain subject to their original licenses.
+A distributor must preserve all required third-party notices and must not
+relicense third-party code without permission.
+
+7. Network Services and Commercial Support
+
+The Software may connect to network services. Such services, APIs,
+hosting, paid support, subscriptions, and commercial integrations may be
+subject to separate terms and fees.
+
+This License does not grant ownership of any hosted service, domain,
+repository, API, blockchain contract, trademark, logo, or brand.
+
+8. Trademarks and Names
+
+This License grants no right to use the names, logos, or trademarks of RB,
+R,DROID, OpenAI, Google, F-Droid, microG, Termux, or any third party.
+
+The names "RB" and "R,DROID" may be used only to identify unmodified
+official releases or with written permission from the relevant owner.
+
+9. No Endorsement
+
+This Software is independent and is not affiliated with, sponsored by,
+endorsed by, certified by, or produced by OpenAI, Google, F-Droid, microG,
+Termux, or any other third-party project unless expressly stated in a
+separate written agreement.
+
+10. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, SECURITY, AVAILABILITY, OR NON-INFRINGEMENT.
+
+11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, RB AND THE CONTRIBUTORS SHALL NOT
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL,
+OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, OR BUSINESS,
+ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE.
+
+12. Acceptance
+
+By using, modifying, distributing, or selling the Software, the recipient
+accepts this License.
+
+If any provision is held invalid or unenforceable, the remaining provisions
+shall remain in effect.
